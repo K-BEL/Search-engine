@@ -1,0 +1,55 @@
+Malaria and COVID-19 may have similar aspects and seem to have a strong 
+potential for mutual influence. They have already caused millions of deaths, 
+and the regions where malaria is endemic regions are at risk of suffering from 
+the consequences of COVID-19 due to mutual side effects, such as less access 
+to treatment for patients with malaria due to the fear of access to healthcare 
+centers leading to worse outcomes and diagnostic delays. 
+ Moreover, the similar and generic symptoms make it harder to achieve an 
+immediate diagnosis. Healthcare systems and professionals will face a great 
+challenge in case of a syndemic. Here, we present an overview of common and 
+different findings for both diseases with possible mutual influences of one on 
+the other, especially in countries with limited resources. The role of young 
+health professionals, well-motivated and trained in primary care, will also be 
+essential in countries with a high burden of malaria. In patients with symptoms 
+such as fever, fatigue, and headache, both malaria and COVID-19 tests should 
+always be performed. According to recent WHO recommendations , in the case 
+of challenges due to the COVID-19 pandemic (e.g., supply chain disruption for 
+RDTs, health worker absenteeism, shortage of personal protective equipment) 
+a malaria diagnosis should be considered for all fever cases in endemic 
+countries. On the other hand, patients with COVID-19-related symptoms that 
+negative for malaria must undergo isolation to exclude COVID-19 until 
+repetition of the virological sample, thus reducing the potential risk of 
+transmission. Even though a COVID-19 outbreak may not occur in the malariaendemic regions, the WHO has called for ministries of health and national 
+malaria control programs to ensure that malaria control efforts are not 
+disrupted while facing the COVID-19 response . Preparedness is the key to 
+tackling any public health crisis, and malaria-endemic countries need to be 
+prepared for the challenges COVID-19 could pose. 
+ The impact of the epidemic on the health financing system as a whole is 
+considered. A polarization of economic resources happened with Ebola, and this 
+is also being observed with COVID-19. Therefore, in the next month, it could 
+be possible to observe an important decrease in economic and human 
+resources for malaria control programs, with a real risk of reducing prevention. 
+This is turn may result in an increase in the numbers of cases, with a 
+consequent increase in morbidity and mortality. The characteristics of COVID19 and the previous experiences of the Ebola epidemic indicate the need for 
+malaria-endemic countries to consider measures for preparation and 
+prevention, focusing on not only the threat of COVID-19 but also the possible 
+impact of other diseases, especially malaria [16]. In order to face these possible 
+scenarios, COVID-19 preparedness and response in malaria-endemic countries 
+should be focused on the following: 1. Local staff management, including 
+protection, training, supervision, incentives, and rest shifts, should focus on all 
+factors that together can help to ease the fear of contagion, diminish the anger 
+over the death of colleagues, and contain strikes and protests; 2. Infection 
+prevention and control measures should be applied for healthcare workers at 
+the hospital and peripheral levels, making sure to institute appropriate lowtechnology measures such as washing hands with sodium hypochlorite, 
+segregation of hospital waste, and proper application of the personal 
+protective equipment; 3. Community engagement is crucial, as an effective 
+communication campaign involving local leaders, indigenous associations, and 
+media can compel the community to conform to the new behaviors (distancing, 
+hand washing, stopping of traditional funeral rites, collaborating in contact 
+tracing, etc.) and therefore in the end be able to retain trust in healthcare 
+structures and operators; 4. Data management and operational research 
+should not be neglected. It is of fundamental importance to monitor trends of 
+routine health services use, maternal child health, TB, HIV, etc.
+ Finally, from a global perspective, it is necessary to increase and join efforts 
+in order to develop an effective vaccine and it make available for everyone, as 
+this would be the most effective preventive measure for both disease
